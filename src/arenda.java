@@ -1,2 +1,8 @@
-package PACKAGE_NAME;public interface arenda {
+public interface arenda {
+
+
+    abstract void arenda();
+
+
+
 }
